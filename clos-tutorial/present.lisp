@@ -1,4 +1,4 @@
-;; $Id: //info.ravenbrook.com/user/ndl/lisp/ilc2003/present.lisp#2 $
+;; $Id: present.lisp,v 1.1.1.1 2003/10/21 13:49:26 nicklevine Exp $
 
 (in-package "EDITOR")
 
